@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>My Web Page</title>
+	<link href="stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+</body>
+	<!--title-->
+	<div class="scrollmenu">
+	<a href="index.html">Home</a>
+	<a href="portfolio.html">Portfolio</a>
+	<a href="aboutme.html">About Me</a>
+	</div>
+	
+<h1>**Welcome to Rainier's Home Page**</h1>
+<img src="images/bikerhomepage.jpg" height="250">
+<h1>My name is Rainier Gracial. I am currently a student at Damien High Schoool.</h1>
+<h1>I completed 8th grade year at Carden Arbor View and was accepted to Damien High School.</h1>
+<h1>I started working at Incycle Bicycles at the age of 15 and have continued working since.</h1>
+<h1>I look forward to graduating high school and moving on to college.</h1>
+
+
+
+
+
+
+
+</body>
+</html>
