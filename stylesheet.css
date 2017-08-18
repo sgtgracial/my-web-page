@@ -1,0 +1,39 @@
+h1 {
+   font-size: 2.3em;
+   text-align: center;
+   color: green;
+}
+
+div,scrollmenu{
+	background-color: blue;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+div,scrollmenu a {
+	display: inline-block;
+	color: grey;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+}
+
+div,scrollmenu a:hover{
+	background-color:black;
+	
+}
+
+body{
+	background-color:grey;
+	
+
+}
+
+div {
+    border: 2px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-left: 30px;
+    background-color: green;
+}
